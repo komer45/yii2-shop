@@ -131,3 +131,4 @@ Yii::setAlias('@storageUrl','/frontend/web/images');
 ---------------------------------
 Виджеты в разработке.
 "# yii2-shop" 
+"# yii2-shop" 
